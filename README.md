@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abzal Orazbek
+- 👀 I’m interested in Software Development for various platforms
+- 🌱 I’m currently learning Kotlin to create Android apps
+- 📫 How to reach me on [Telegram](https://t.me/abzal_orazbek)
