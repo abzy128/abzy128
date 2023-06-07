@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abzal Orazbek
 - 👀 I’m interested in Software Development for various platforms
 - 🌱 I’m currently learning C#/.NET
-- 📫 You can reach me on [Telegram](https://t.me/abzal_orazbek)
+- 📫 You can reach me on [Telegram](https://t.me/abzal_orazbek) or [Skype](https://join.skype.com/invite/zeSiLfNWJAsJ)
